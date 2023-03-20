@@ -1,8 +1,7 @@
 <div id="header" aling="center">
-  <img align="center"
+  <img 
     src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"
     width="200"
-      align="center"
   />
 
   <h1 aling="center">hi🤗, i`m Enzo Escudero</h1>

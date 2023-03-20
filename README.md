@@ -51,19 +51,23 @@
   title="html5"
   alt="HTML"
   width="40"
+  height="40"
 />&nbsp;
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
   alt="CSS3"
   title="CSS"
   width="40"
+  height="40"
 />&nbsp;
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
   alt="javascript"
   title="JS"
   width="40"
+  height="40"
 />&nbsp;
+
 
 
 

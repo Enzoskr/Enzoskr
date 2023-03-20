@@ -26,7 +26,7 @@
   </a>
   <a href="https://www.instagram.com/enzo.agustin14/" target="_blank">
     <img
-     src="https://img.shields.io/twitter/follow/Enzoagustin01?color=%23E1306C&label=Enzoagustin01&logo=instagram&style=for-the-badge"
+     src="https://img.shields.io/twitter/follow/Enzo.agustin14?color=%23E1306C&label=Enzoagustin01&logo=instagram&style=for-the-badge"
       alt="instagram badge"
     />
   </a>

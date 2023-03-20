@@ -13,24 +13,23 @@
 </div>
 
 <div id="redes">
-  <a href="https://www.twitch.tv/enzosskr">
+  <a href="https://www.twitch.tv/enzosskr" target="_blank">
     <img
-      src="https://img.shields.io/twitch/status/Enzosskr?color=%236441a5&label
-            =Enzosskr&logo=twitch&style=for-the-badge"
+      src="https://img.shields.io/twitch/status/Enzosskr?color=%236441a5&label=Enzosskr&logo=twitch&style=for-the-badge"
       alt="twitch badge"
     />
   </a>
-  <a href="https://twitter.com/Enzoagustin01">
+  <a href="https://twitter.com/Enzoagustin01" target="_blank">
     <img
-      src="https://img.shields.io/twitter/follow/
-    Enzoagustin01?color=%231DA1F2&label=Enzoagustin01&logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/Enzoagustin01?color=%231DA1F2&label=Enzoagustin01&logo=twitter&style=for-the-badge"
       alt="twitter badge"
     />
   </a>
-  <a href="https://www.instagram.com/enzo.agustin14/">
+  <a href="https://www.instagram.com/enzo.agustin14/" target="_blank">
     <img
-      src="https://img.shields.io/instagram/follow/
-    enzo.agustin14?color=%23E4405F&label=enzo.agustin14&logo=instagram&style=for-the-badge"
+      src="https://img.shields.io/instagram/follow/enzo.agustin14?color=%23E4405F&label=enzo.agustin14&logo=instagram&style=for-the-badge"
       alt="instagram badge"
     />
   </a>
+  <a href=""></a>
+</div>

@@ -46,6 +46,7 @@
 <div aling="left">
   <h3>🔨lenguages and tools:</h3>
 </div>
+<div>
 <img
   src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
   title="html5"
@@ -67,7 +68,7 @@
   width="40"
   height="40"
 />&nbsp;
-
+</div>
 
 
 

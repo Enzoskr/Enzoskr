@@ -11,3 +11,26 @@
     student for:Nucba
   </h3>
 </div>
+
+<div id="redes">
+  <a href="https://www.twitch.tv/enzosskr">
+    <img
+      src="https://img.shields.io/twitch/status/Enzosskr?color=%236441a5&label
+            =Enzosskr&logo=twitch&style=for-the-badge"
+      alt="twitch badge"
+    />
+  </a>
+  <a href="https://twitter.com/Enzoagustin01">
+    <img
+      src="https://img.shields.io/twitter/follow/
+    Enzoagustin01?color=%231DA1F2&label=Enzoagustin01&logo=twitter&style=for-the-badge"
+      alt="twitter badge"
+    />
+  </a>
+  <a href="https://www.instagram.com/enzo.agustin14/">
+    <img
+      src="https://img.shields.io/instagram/follow/
+    enzo.agustin14?color=%23E4405F&label=enzo.agustin14&logo=instagram&style=for-the-badge"
+      alt="instagram badge"
+    />
+  </a>

@@ -33,15 +33,15 @@
   </a>
   <a href=""></a>
 </div>
----
 
-###about me 🤓
+ ---
+### About-Me🤓:
 
 🏫I am studying full-stack developer at Nucba 
-
 📨ask me about html, css and javascript
-
 📫how to reach me **escuderoenzochechu@gmail.com**
+
+
 
 
 

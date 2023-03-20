@@ -33,7 +33,8 @@
   </a>
   <a href=""></a>
 </div>
----
+----------------------------------------------
+
 ###about me 🤓
 
 🏫I am studying full-stack developer at Nucba 

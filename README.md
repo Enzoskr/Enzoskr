@@ -43,6 +43,27 @@
 
 - 📫how to reach me **escuderoenzochechu@gmail.com**
 
+<div aling="left">
+  <h3>🔨lenguages and tools:</h3>
+</div>
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"
+  title="html5"
+  alt="HTML"
+  width="40"
+/>&nbsp;
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"
+  alt="CSS3"
+  title="CSS"
+  width="40"
+/>&nbsp;
+<img
+  src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"
+  alt="javascript"
+  title="JS"
+  width="40"
+/>&nbsp;
 
 
 

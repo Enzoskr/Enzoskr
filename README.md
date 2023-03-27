@@ -11,7 +11,7 @@
   </h3>
 </div>
 
-<div id="redes">
+<div id="redes" align="center">
   <a href="https://www.twitch.tv/enzosskr" target="_blank">
     <img
       src="https://img.shields.io/twitch/status/Enzosskr?color=%236441a5&label=Enzosskr&logo=twitch&style=for-the-badge"

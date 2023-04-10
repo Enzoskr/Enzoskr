@@ -4,7 +4,7 @@
     width="200"
   />
 
-  <h1 aling="center">hi🤗, i`m Enzo Escudero</h1>
+  <h1 aling="center">hi🤗, Enzo greets you</h1>
   <h3>
     Future fullstack developer eager to join a work team. passionate about code.
     student for:Nucba

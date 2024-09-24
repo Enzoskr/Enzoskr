@@ -32,7 +32,7 @@
 
 - 📨ask me about html, css and javascript
 
-- 📫how to reach me **escuderoenzochechu@gmail.com**
+- 📫how to reach me **enzoescudero210@gmail.com**
 
 <div aling="left">
   <h3>🔨lenguages and tools:</h3>

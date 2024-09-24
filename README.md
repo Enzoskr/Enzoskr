@@ -18,12 +18,6 @@
       alt="twitch badge"
     />
   </a>
-  <a href="https://twitter.com/Enzoagustin01" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/Enzoagustin01?color=%231DA1F2&label=Enzoagustin01&logo=twitter&style=for-the-badge"
-      alt="twitter badge"
-    />
-  </a>
   <a href="https://www.instagram.com/enzo.agustin14/" target="_blank">
     <img
      src="https://img.shields.io/twitter/follow/Enzo.agustin14?color=%23E1306C&label=Enzoagustin01&logo=instagram&style=for-the-badge"

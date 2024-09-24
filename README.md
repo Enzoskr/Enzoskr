@@ -6,11 +6,9 @@
 
 <h1 align="center">Hi🤗, Enzo greets you</h1>
 <h3>
-  Future fullstack developer eager to join a work team. Passionate about code.
-  Student at Nucba, currently pursuing a Bachelor's degree in Computer Science
-  at Universidad Nacional del Oeste.
+  Fullstack developer, graduated from Nucba, now pursuing a Bachelor's degree
+  in Computer Science at Universidad Nacional del Oeste.
 </h3>
-
 <div id="redes" align="center">
   <a href="https://www.twitch.tv/enzosskr" target="_blank">
     <img
